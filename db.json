@@ -1,11 +1,11 @@
 {
   "users": [
-    { "id": 1, "login": "elly", name: "Elly Ljungberg" },
-    { "id": 2, "login": "hans", name: "Hans Sahlin" },
-    { "id": 3, "login": "elisabeth", name: "Elisabet Österberg" }
+    { "id": 1, "login": "elly", "name": "Elly Ljungberg" },
+    { "id": 2, "login": "hans", "name": "Hans Sahlin" },
+    { "id": 3, "login": "elisabeth", "name": "Elisabet Österberg" }
   ],
   "user_insurances": {
-    "1": [1, 2]
+    "1": [1, 2],
     "2": [3, 4],
     "3": [1, 4]
   },
